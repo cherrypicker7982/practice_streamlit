@@ -7,7 +7,7 @@ import streamlit as st
 st.set_page_config(
     page_title='포켓몬도감',
     page_icon='./images/monsterball.png',
-    # layout='wide',
+    layout='wide',  # 이 줄을 수정했습니다.
     # initial_sidebar_state='expanded'
 )
 
